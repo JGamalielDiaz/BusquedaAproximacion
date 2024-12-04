@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9343341-BD2D-4B29-B6EE-4C8382CC5940}|Services\\Services.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\services\\servicelist\\listservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9343341-BD2D-4B29-B6EE-4C8382CC5940}|Services\\Services.csproj|solutionrelative:services\\servicelist\\listservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C3E9D6-DA0B-45B5-A382-85C69B01268E}|Repositories\\Repositories.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\repositories\\models\\approximationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C3E9D6-DA0B-45B5-A382-85C69B01268E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\approximationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\api_listasriesgo_bfp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|solutionrelative:api_listasriesgo_bfp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C3E9D6-DA0B-45B5-A382-85C69B01268E}|Repositories\\Repositories.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\repositories\\ilistrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C3E9D6-DA0B-45B5-A382-85C69B01268E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ilistrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C3E9D6-DA0B-45B5-A382-85C69B01268E}|Repositories\\Repositories.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\repositories\\models\\listariesgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C3E9D6-DA0B-45B5-A382-85C69B01268E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\listariesgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C3E9D6-DA0B-45B5-A382-85C69B01268E}|Repositories\\Repositories.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\repositories\\listrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C3E9D6-DA0B-45B5-A382-85C69B01268E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\listrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9343341-BD2D-4B29-B6EE-4C8382CC5940}|Services\\Services.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\services\\listinterface\\ilistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9343341-BD2D-4B29-B6EE-4C8382CC5940}|Services\\Services.csproj|solutionrelative:services\\listinterface\\ilistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\api_listasriesgo_bfp\\controllers\\consultalistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|solutionrelative:api_listasriesgo_bfp\\controllers\\consultalistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C3E9D6-DA0B-45B5-A382-85C69B01268E}|Repositories\\Repositories.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{90C3E9D6-DA0B-45B5-A382-85C69B01268E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9343341-BD2D-4B29-B6EE-4C8382CC5940}|Services\\Services.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A9343341-BD2D-4B29-B6EE-4C8382CC5940}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\api_listasriesgo_bfp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|solutionrelative:api_listasriesgo_bfp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\api_listasriesgo_bfp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|solutionrelative:api_listasriesgo_bfp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\api_listasriesgo_bfp\\api_listasriesgo_bfp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|solutionrelative:api_listasriesgo_bfp\\api_listasriesgo_bfp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\api_listasriesgo_bfp\\api_listasriesgo_bfp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|solutionrelative:api_listasriesgo_bfp\\api_listasriesgo_bfp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\api_listasriesgo_bfp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|solutionrelative:api_listasriesgo_bfp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|c:\\users\\joaquin gamaliel\\source\\repos\\api_listasriesgo_bfp\\api_listasriesgo_bfp\\api_listasriesgo_bfp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFB5F164-B5D9-4D00-A949-B6FADAA02AFC}|API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj|solutionrelative:api_listasriesgo_bfp\\api_listasriesgo_bfp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApproximationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Repositories\\Models\\ApproximationResult.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\ApproximationResult.cs",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Repositories\\Models\\ApproximationResult.cs",
+              "RelativeToolTip": "Repositories\\Models\\ApproximationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:34:51.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListaRiesgo.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Repositories\\Models\\ListaRiesgo.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\ListaRiesgo.cs",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Repositories\\Models\\ListaRiesgo.cs",
+              "RelativeToolTip": "Repositories\\Models\\ListaRiesgo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:17:43.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_LISTASRIESGO_BFP\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_LISTASRIESGO_BFP\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T21:30:36.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "API_LISTASRIESGO_BFP",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj",
+              "RelativeDocumentMoniker": "API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj",
+              "RelativeToolTip": "API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T21:30:23.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "API_LISTASRIESGO_BFP.http",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.http",
+              "RelativeDocumentMoniker": "API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.http",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.http",
+              "RelativeToolTip": "API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-02T21:28:24.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API_LISTASRIESGO_BFP\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API_LISTASRIESGO_BFP\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:23:08.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsultaListaController.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\Controllers\\ConsultaListaController.cs",
+              "RelativeDocumentMoniker": "API_LISTASRIESGO_BFP\\Controllers\\ConsultaListaController.cs",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\Controllers\\ConsultaListaController.cs",
+              "RelativeToolTip": "API_LISTASRIESGO_BFP\\Controllers\\ConsultaListaController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:02:50.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "API_LISTASRIESGO_BFP.csproj",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj",
+              "RelativeDocumentMoniker": "API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj",
+              "RelativeToolTip": "API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T20:49:16.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListService.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Services\\ServiceList\\ListService.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceList\\ListService.cs",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Services\\ServiceList\\ListService.cs*",
+              "RelativeToolTip": "Services\\ServiceList\\ListService.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:02:49.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\appsettings.json",
+              "RelativeDocumentMoniker": "API_LISTASRIESGO_BFP\\appsettings.json",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\appsettings.json",
+              "RelativeToolTip": "API_LISTASRIESGO_BFP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T20:00:45.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Repositories\\ListRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\ListRepositories.cs",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Repositories\\ListRepositories.cs",
+              "RelativeToolTip": "Repositories\\ListRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:23:28.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repositories.csproj",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T17:23:13.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IListRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Repositories\\IListRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\IListRepositories.cs",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Repositories\\IListRepositories.cs",
+              "RelativeToolTip": "Repositories\\IListRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:23:13.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\Program.cs",
+              "RelativeDocumentMoniker": "API_LISTASRIESGO_BFP\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\API_LISTASRIESGO_BFP\\Program.cs",
+              "RelativeToolTip": "API_LISTASRIESGO_BFP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:23:13.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IListas.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Services\\ListInterface\\IListas.cs",
+              "RelativeDocumentMoniker": "Services\\ListInterface\\IListas.cs",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Services\\ListInterface\\IListas.cs",
+              "RelativeToolTip": "Services\\ListInterface\\IListas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:23:11.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\Joaquin Gamaliel\\source\\repos\\API_LISTASRIESGO_BFP\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T17:23:09.305Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qJIyE0c0Aayfmqxa5x3BF0VigfkHW/V+t3xIzd8h+BQ=",
+  "Source": "API_LISTASRIESGO_BFP",
+  "BasePath": "_content/API_LISTASRIESGO_BFP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

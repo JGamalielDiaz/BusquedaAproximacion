@@ -1,0 +1,12 @@
+C:\Users\Joaquin Gamaliel\source\repos\API_LISTASRIESGO_BFP\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\Joaquin Gamaliel\source\repos\API_LISTASRIESGO_BFP\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\Joaquin Gamaliel\source\repos\API_LISTASRIESGO_BFP\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\Joaquin Gamaliel\source\repos\API_LISTASRIESGO_BFP\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Joaquin Gamaliel\source\repos\API_LISTASRIESGO_BFP\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin Gamaliel\source\repos\API_LISTASRIESGO_BFP\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Joaquin Gamaliel\source\repos\API_LISTASRIESGO_BFP\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\Joaquin Gamaliel\source\repos\API_LISTASRIESGO_BFP\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin Gamaliel\source\repos\API_LISTASRIESGO_BFP\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\Joaquin Gamaliel\source\repos\API_LISTASRIESGO_BFP\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\Joaquin Gamaliel\source\repos\API_LISTASRIESGO_BFP\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\Joaquin Gamaliel\source\repos\API_LISTASRIESGO_BFP\Repositories\obj\Debug\net8.0\ref\Repositories.dll
